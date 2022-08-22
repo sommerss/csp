@@ -38,7 +38,6 @@ baseurl: "/week-0-hacks" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links: https://disney.fandom.com/wiki/Remy
-    twitter: 
     github: sommerss
 
 # Set this to true to get LaTeX math equation support
