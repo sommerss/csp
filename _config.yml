@@ -35,7 +35,7 @@ url: "https://sommerss.github.io/csp" # the base hostname & protocol for your si
 #
 baseurl: "/week-0-hacks" # the subpath of your site, e.g. "/blog".
 
-# Github and twitter are optional:
+# Github and twitter are optional:  xxx
 minima:
   social_links: https://disney.fandom.com/wiki/Remy
     github: sommerss
